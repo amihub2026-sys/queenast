@@ -1,6 +1,6 @@
 // Replace these demo contact values before publishing.
 const salonContact = {
-  whatsapp: '919000000000',
+  whatsapp: '919629990960',
   instagram: 'https://www.instagram.com/'
 };
 document.querySelectorAll('a[href*="wa.me/"]').forEach(link => {
